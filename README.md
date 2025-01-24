@@ -130,12 +130,12 @@ project-folder/
 
 ## **License**
 
-This project is licensed under the MIT License. Feel free to use and modify it as needed.
+Feel free to use and modify it as needed.
 
 ---
 
 ## **Author**
 
-- **Name**: Pedro (adjust with your name/email if needed).
-- **Contact**: (Optional - add your preferred contact information if sharing this project publicly).
+- **Name**: Pedro Gabriel Silva Macedo Machado.
+- **Contact**: pedrocreed37@gmail.com
 
